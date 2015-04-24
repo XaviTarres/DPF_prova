@@ -132,6 +132,14 @@
     <dependencies>
     
         <!-- MigLayout -->
+        
+         <dependency>
+        <groupId>javafx</groupId>
+        <artifactId>jfxrt</artifactId>
+        <version>${java.version}</version>
+        <scope>system</scope>
+        <systemPath>${java.home}/lib/ext/jfxrt.jar</systemPath>
+    	</dependency>
 
         <dependency>
             <groupId>com.miglayout</groupId>
