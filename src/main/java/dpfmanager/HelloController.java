@@ -61,6 +61,7 @@ public class HelloController {
 	    String name = builder.toString();
 	    LOG.debug("Saying hello to " + name);
 	    messageLabel.setText("Hello " + name);
+	    
 	} else {
 	    LOG.debug("Neither first name nor last "
 	    	+ "name was set, saying hello to anonymous person asdfasd");
