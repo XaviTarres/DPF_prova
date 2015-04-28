@@ -165,7 +165,7 @@
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-pmd-plugin</artifactId>
+				<artifactId>maven-pmd- plugin</artifactId>
 				<version>3.4</version>
 				<configuration>
 
