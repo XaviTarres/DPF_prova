@@ -1,0 +1,4 @@
+dpfmanager\MainApp.class
+dpfmanager\HelloController.class
+dpfmanager\shell\modules\inteface\CommadLine.class
+dpfmanager\shell\modules\inteface\Gui.class

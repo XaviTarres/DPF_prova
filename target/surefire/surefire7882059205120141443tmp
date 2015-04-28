@@ -1,0 +1,33 @@
+#surefire
+#Mon Apr 27 14:57:45 CEST 2015
+testClassesDirectory=D\:\\workspacePREFORMA\\new_prova\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Easy\\.m2\\repository\\com\\miglayout\\miglayout-core\\4.2\\miglayout-core-4.2.jar
+classPathUrl.3=C\:\\Users\\Easy\\.m2\\repository\\com\\miglayout\\miglayout-javafx\\4.2\\miglayout-javafx-4.2.jar
+classPathUrl.2=C\:\\Program Files\\Java\\jdk1.8.0_45\\jre\\lib\\ext\\jfxrt.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\workspacePREFORMA\\new_prova\\target\\classes
+reportsDirectory=D\:\\workspacePREFORMA\\new_prova\\target\\surefire-reports
+classPathUrl.0=D\:\\workspacePREFORMA\\new_prova\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\workspacePREFORMA\\new_prova\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Easy\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+surefireClassPathUrl.0=C\:\\Users\\Easy\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=dpfmanager.HelloControllerTest
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+runStatisticsFile=D\:\\workspacePREFORMA\\new_prova\\.surefire-F616D409EA7A135DE791785A687779B566ACD338
+includes0=**/Test*.java
+classPathUrl.11=C\:\\Users\\Easy\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+classPathUrl.10=C\:\\Users\\Easy\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.9=C\:\\Users\\Easy\\.m2\\repository\\log4j\\log4j\\1.2.16\\log4j-1.2.16.jar
+classPathUrl.8=C\:\\Users\\Easy\\.m2\\repository\\org\\slf4j\\slf4j-log4j12\\1.6.1\\slf4j-log4j12-1.6.1.jar
+classPathUrl.7=C\:\\Users\\Easy\\.m2\\repository\\org\\slf4j\\jcl-over-slf4j\\1.6.1\\jcl-over-slf4j-1.6.1.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Easy\\.m2\\repository\\org\\slf4j\\slf4j-api\\1.6.1\\slf4j-api-1.6.1.jar
+classPathUrl.5=C\:\\Users\\Easy\\.m2\\repository\\commons-lang\\commons-lang\\2.6\\commons-lang-2.6.jar
